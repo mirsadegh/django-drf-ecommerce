@@ -5,4 +5,7 @@ db.sqlite3
 .env
 .coverage
 .vscode
+htmlcov/
+schema.yml
+*-commands.md
 .idea
