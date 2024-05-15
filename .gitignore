@@ -9,3 +9,4 @@ htmlcov/
 schema.yml
 *-commands.md
 .idea
+htmlcov/
